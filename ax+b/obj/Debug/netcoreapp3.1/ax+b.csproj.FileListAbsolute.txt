@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\bin\Debug\netcoreapp3.1\ax+b.exe
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\bin\Debug\netcoreapp3.1\ax+b.deps.json
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\bin\Debug\netcoreapp3.1\ax+b.runtimeconfig.json
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\bin\Debug\netcoreapp3.1\ax+b.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\bin\Debug\netcoreapp3.1\ax+b.dll
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\bin\Debug\netcoreapp3.1\ax+b.pdb
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\obj\Debug\netcoreapp3.1\ax+b.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\obj\Debug\netcoreapp3.1\ax+b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\obj\Debug\netcoreapp3.1\ax+b.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\obj\Debug\netcoreapp3.1\ax+b.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\obj\Debug\netcoreapp3.1\ax+b.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\obj\Debug\netcoreapp3.1\ax+b.dll
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\obj\Debug\netcoreapp3.1\ax+b.pdb
+C:\Users\Lenovo\Desktop\vs_projeleri\ax+b\obj\Debug\netcoreapp3.1\ax+b.genruntimeconfig.cache
