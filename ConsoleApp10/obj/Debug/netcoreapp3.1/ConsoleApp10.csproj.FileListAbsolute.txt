@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.exe
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.deps.json
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.json
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\Lenovo\Desktop\vs_projeleri\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.genruntimeconfig.cache
