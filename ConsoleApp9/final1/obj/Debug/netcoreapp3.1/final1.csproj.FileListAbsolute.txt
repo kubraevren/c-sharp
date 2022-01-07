@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\bin\Debug\netcoreapp3.1\final1.exe
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\bin\Debug\netcoreapp3.1\final1.deps.json
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\bin\Debug\netcoreapp3.1\final1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\bin\Debug\netcoreapp3.1\final1.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\bin\Debug\netcoreapp3.1\final1.dll
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\bin\Debug\netcoreapp3.1\final1.pdb
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\obj\Debug\netcoreapp3.1\final1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\obj\Debug\netcoreapp3.1\final1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\obj\Debug\netcoreapp3.1\final1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\obj\Debug\netcoreapp3.1\final1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\obj\Debug\netcoreapp3.1\final1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\obj\Debug\netcoreapp3.1\final1.dll
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\obj\Debug\netcoreapp3.1\final1.pdb
+C:\Users\Lenovo\Desktop\vs_projeleri\final1\obj\Debug\netcoreapp3.1\final1.genruntimeconfig.cache
